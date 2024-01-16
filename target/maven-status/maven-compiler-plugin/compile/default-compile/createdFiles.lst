@@ -1,0 +1,4 @@
+com/polarbookshop/dispatcherservice/DispatchingFunctions.class
+com/polarbookshop/dispatcherservice/OrderAcceptedMessage.class
+com/polarbookshop/dispatcherservice/OrderDispatchedMessage.class
+com/polarbookshop/dispatcherservice/DispatcherServiceApplication.class
